@@ -6,6 +6,6 @@ console.log ("olá, meu nome é larissa e tenho 15anos");
 console.log(nome.toUpperCase()); 
 console.log("tipo" +typeof nome);
 
-console.log(idade.number());
-//console.log("tipo"+ idade);
+console.log(typeof idade);
+
 
