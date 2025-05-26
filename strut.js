@@ -7,8 +7,6 @@ while (cont <= 10) {
     cont++
 }
 
-
-
 //2) Escreva um programa que tem por finalidade calcular a Média Geral de uma Turma de alunos.
 let numAlun= rl.questionInt("informe o numero de alunos;");
 let somaMedias=0;
